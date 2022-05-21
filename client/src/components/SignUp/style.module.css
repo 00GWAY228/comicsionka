@@ -1,0 +1,42 @@
+.formBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* padding-top: 5px; */
+  margin-top: 25px;
+  background: url(http://localhost:3001/photo_2022-04-18_21-23-11.jpg) center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size:  cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 575px;
+  height: 295px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 575px;
+  height: 295px;
+  font-style: white !important;
+  background-color: rgba(0, 0, 0, 0.793);
+  /* box-shadow: 0px 3px 8px 0px rgba(34, 60, 80, 0.29); */
+}
+
+.container label{
+  color: white;
+}
+
+.container h6{
+  color: white;
+}
+.container h4{
+  color: white;
+}
+
+.btn_registration{
+  background-color: rgba(183, 60, 55, 1) !important;
+  /* margin-right: 67px !important;
+  margin-left: 20px !important; */
+}

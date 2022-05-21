@@ -1,0 +1,9 @@
+.main_box{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 100px 0px 100px;
+}

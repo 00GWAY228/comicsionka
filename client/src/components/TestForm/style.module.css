@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.formBox {
+  padding-top: 24px;
+  width: 40%;
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+  background-color: white;
+}
+
+.selectInput {
+  width: 58.33333333%;
+  margin-bottom: 24px;
+}
+
+.btn_submit_formADDProduct {
+  width: 100%;
+}
